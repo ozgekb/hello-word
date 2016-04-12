@@ -1,2 +1,3 @@
 # hello-word
-learning how to create repository
+learning github
+I am a student at Seattle University.
